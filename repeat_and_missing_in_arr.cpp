@@ -1,3 +1,4 @@
+//Brute Solution
 vector<int> Solution::repeatedNumber(const vector<int> &A) {
     int a,b;
     int i,j;
